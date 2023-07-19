@@ -1,6 +1,5 @@
 # Association_Rules
-This GitHub repository explores the fascinating concept of association rules in data science. Association rules are powerful techniques used to discover interesting patterns and relationships within datasets. In this repository, you will find comprehensive examples, implementations, and explanations of association rule mining algorithms, enabling you to harness the potential of this method for your own data analysis and decision-making processes.
-
+This IPython Notebook presents a comprehensive exploration of association rules in data science. It covers the fundamental concepts, algorithms, and applications of association rule mining, providing a valuable resource for understanding and leveraging this technique for uncovering valuable insights from datasets. With practical examples and step-by-step implementations, this notebook offers a hands-on approach to mastering association rules and their potential for driving data-driven decision-making.
 
 
 
